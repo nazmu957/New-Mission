@@ -7,7 +7,7 @@
     font-size: 35px;
     float: left;
     width: 40%;
-    height: 500px;
+    height: 400px;
     background-color: white;
     margin-left: 100px;
     padding: 70px;
@@ -41,4 +41,97 @@ button{
     height: 100%;
     margin-left: 40px;
     padding: 30px;
+    background-image: url(images/shapes);
+}
+/* second part */
+.secondSection{
+    width: 100%;
+    height: 600px;
+ 
+}
+.secondSection{
+    font-size: 35px;
+    text-align: center;
+}
+.secondSection span {
+    color: coral;
+}
+.secondSection div{
+    display: inline-block;
+    width: 25%;
+    height: 300px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    
+    
+}
+.secondSection div h6{
+    font-size: 20px;
+    font-weight: 1;
+    text-align: left;
+    padding: 5%;
+}
+.secondSection div h4{
+   text-align: left;
+}
+.secondSection div img{
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+div.first{
+    background-color: #edf5f6;
+}
+div.second{
+    background-color: #ffeeee;
+}
+div.third{
+    background-color: #fff4d6;
+}
+/* third part */
+.thirdSection{
+    width: 100%;
+    height: 600px;
+    
+}
+.thirdSection .coding img{
+    float: left;
+    width: 15%;
+    height: 350px;
+    padding-left: 300px;
+    padding-top: 100px;
+
+}
+.thirdSection .devlope{
+    width: 50%;
+    height: 400px;
+    font-size: 25px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 100px;
+    text-align: justify;
+}
+.thirdSection .devlope .secondButton{
+    width: auto;
+}
+/* fourth Part */
+.ending{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+.ending h1{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+}
+.ending h1 span{
+    color: tomato;
+}
+.ending h6{
+    color: white;
+    text-align: center;
+    font-size: 14px;
 }
